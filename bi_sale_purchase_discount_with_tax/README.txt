@@ -1,0 +1,2 @@
+16.0.0.1 ==> Fixed issue of wehn deliver products in different delivery orders in that case when invoices are generated at that time amount discount calculate wrong.
+16.0.0.2 ==> Fixed issue of when select tax and untax at that time show wrong value in discount amount.
